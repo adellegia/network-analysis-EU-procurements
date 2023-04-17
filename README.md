@@ -1,4 +1,17 @@
-# Exploring the Public Procurement Market in Germany using a Network Approach
+# Analyzing the Network Structure of Public Procurement in Germany: Implications for Corruption Risk and Single Bidder Rates
+
+```
+├───data                    
+│   ├───processed           - processed data
+│   └───raw                 - `contracts` and `aggregated_country_year` datasets
+├───notebooks               - Jupyter notebooks
+├───output
+│   ├───figures             - plots and charts
+│   └───tables              - tables of descriptive statistics
+└───reference               - reference paper
+                 
+
+```
 
 ## Motivation
 Public procurement contracts are an essential part of the public sector. They are a critical instrument for governments to acquire goods and services are essential for ensuring public services are delivered effectively. However, these contracts can be susceptible to corruption, fraud, and other forms of misconduct, which can result in significant financial losses for the government and undermine public trust.
