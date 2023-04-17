@@ -1,4 +1,6 @@
-# Motivation
+# Exploring the Public Procurement Market in Germany using a Network Approach
+
+## Motivation
 Public procurement contracts are an essential part of the public sector. They are a critical instrument for governments to acquire goods and services are essential for ensuring public services are delivered effectively. However, these contracts can be susceptible to corruption, fraud, and other forms of misconduct, which can result in significant financial losses for the government and undermine public trust.
 
 In recent years, there has been a growing interest in understanding and preventing corruption in public procurement (see Wachs et al., 2021). The availability of administrative datasets from European Union member states has enabled researchers to analyze large volumes of data and identify patterns and trends related to corruption risk.
@@ -7,7 +9,7 @@ This paper focuses on the use of a competitive measure called single bidding rat
 
 The results of this paper have many implications. For instance, under the competition lens, new approaches using the network data can be developed and utilized for detecting signals of bid-rigging activities to aid the enforcement arm of antitrust authorities.
 
-# Research objectives
+## Research objectives
 This paper builds on the paper of Wachs et al. (2021), which aims to understand the relationship between the degree of centralization of a market and its corruption risk, and investigate whether centralization induces corruption by fostering corruption among core issuers and winners. The goal is to primarily visualize and describe the network of public procurement contracts in Germany from 2008 to 2016. Specifically, it focuses on understanding the structure of German procurement market in relation to corruption risk across years using a network approach. 
 
 To achieve these objectives, data science tools are applied to conduct analysis methods including k-core decomposition and community detection, and measure centrality of the network.
