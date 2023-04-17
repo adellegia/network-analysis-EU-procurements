@@ -3,17 +3,17 @@
 ```
 network-analysis-EU-procurements/
 ├───data                    
-│   ├───processed             - processed data
-│   └───raw                   - `contracts` and `aggregated_country_year` datasets
-├───notebooks                 - Jupyter notebooks
+│   ├───processed                     - processed data
+│   └───raw                           - `contracts` and `aggregated_country_year` datasets
+├───notebooks                         - Jupyter notebooks
 ├───output
-│   ├───figures               - plots and charts
-│   └───tables                - tables of descriptive statistics
-├───reference                 - reference paper
-├─.gitignore                  - .gitignore files
-├─environment.yml             - create environment
+│   ├───figures                       - plots and charts
+│   └───tables                        - tables of descriptive statistics
+├───reference                         - reference paper
+├─.gitignore                          - .gitignore files
+├─environment.yml                     - create environment
 ├─README.md
-└─Arbo_MaAdelleGia_HW2.pdf    - final paper HW2 
+└─Arbo_MaAdelleGia_Assignment2.pdf    - final paper submission for Assignment 2 
 ```
 
 ## Background and motivation
@@ -34,6 +34,7 @@ To achieve these objectives, data science tools are applied to conduct network-b
 ## Data
 For this paper, a bipartite network of public procurement contracts awarded by the European Union from 2008 to 2016 was utilized. The data was collected from Tenders Electronic Daily (TED) and is available on [Netzschleuder](https://networks.skewed.de/net/eu_procurements). The dataset has been further processed by Wachs et al. (2021) to include country estimates of corruption risk. The current analysis used the same two datasets: contract-level tidy data (`contracts`) and aggregated country-year corruption indicators data (`aggregated_country_year`). Both datasets along with their data dictionary are available [here](https://zenodo.org/record/3537986#.Xis4mC2ZNGV).
 
+To replicate this study, please save the `contracts` and `aggregated_country_year` .csv datasets in `./data/raw`.
 
 ## Author
 
