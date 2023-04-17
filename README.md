@@ -1,6 +1,7 @@
 # Analyzing the Network Structure of Public Procurement in Germany: Implications for Corruption Risk and Single Bidder Rates
 
 ```
+network-analysis-EU-procurements/
 ├───data                    
 │   ├───processed           - processed data
 │   └───raw                 - `contracts` and `aggregated_country_year` datasets
@@ -8,9 +9,11 @@
 ├───output
 │   ├───figures             - plots and charts
 │   └───tables              - tables of descriptive statistics
-└───reference               - reference paper
-                 
-
+├───reference               - reference paper
+├─.gitignore               - .gitignore files
+├─environment.yml          - install environment
+├─README.md
+└─Analyzing the Network Structure of Public Procurement in Germany_Arbo_MaAdelleGia.pdf 
 ```
 
 ## Motivation
