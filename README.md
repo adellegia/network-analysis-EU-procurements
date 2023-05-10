@@ -13,7 +13,8 @@ network-analysis-EU-procurements/
 ├─.gitignore                          - .gitignore files
 ├─environment.yml                     - create environment
 ├─README.md
-└─Arbo_MaAdelleGia_Assignment2.pdf    - final paper submission for Assignment 2 
+├─Arbo_MaAdelleGia_Assignment2.pdf    - final paper submission for Assignment 2 
+└─Arbo_MaAdelleGia_Assignment3.pptx   - final presentation for Assignment 3
 ```
 
 ## Background and motivation
